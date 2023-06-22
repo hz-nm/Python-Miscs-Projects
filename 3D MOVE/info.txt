@@ -1,0 +1,3 @@
+testbed for controlling a scatter plot using hand gestures.
+
+ENVIRONMENT BEING USED --> telecon.
